@@ -1,19 +1,20 @@
 const list_valo = (prefix) => {
-return `*ZEEONE OFC さ*
+return `*HELIA STORE*
 		
 PROSES	1-180Mnt Max 1X24 Jam		
-OPEN	10.00-19.00		
+OPEN	08.00 - 22.00		
 FORMAT	ID		
 			
 VALORANT POINT			
 		
-125VP	18,000.00		
-420VP	55,000.00		
-700VP	85,000.00		
-1.375VP	155,000.00		
-2.400VP	250,000.00		
-4,000.00VP	395,000.00		
-8.150VP	785,000.00		
+ᵎᵎ 🌺 ʾ 125 Points Rp18.000
+ᵎᵎ 🌺 ʾ 420 Points Rp55.000
+ᵎᵎ 🌺 ʾ 700 Points Rp85.000
+ᵎᵎ 🌺 ʾ 1375 Points Rp155.000
+ᵎᵎ 🌺 ʾ 2400 Points Rp250.000
+ᵎᵎ 🌺 ʾ 4000 Points Rp405.000
+ᵎᵎ 🌺 ʾ 8150 Points Rp810.000
+	
 			
 Untuk pay / pembayan silahkan ketik ${prefix}pay
 `
