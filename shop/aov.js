@@ -1,28 +1,37 @@
-const list_aov = (prefix) => {
-return `*ZEEONE OFC さ*
+const list_ml = (prefix) => {
+return `*HELIA STORE*
 			
 PROSES	1-60Mnt Max 1X24 Jam		
-OPEN	08.00-21.00		
+OPEN	08.00-22.00		
 FORMAT	ID		
 			
-VOUCHER AOV
+DIAMOND MOBILE LEGENDS
 		
-40VC	  Rp 10,000.00		
-90VC	  Rp 20,000.00		
-130VC   Rp 30,000.00		
-180VC   Rp 40,000.00		
-230VC   Rp 50,000.00		
-470VC   Rp 100,000.00		
-950VC	Rp 195,000.00		
-1.430VC 	Rp 290,000.00		
-2.390VC	 Rp 485,000.00		
-4.800VC	 Rp 970,000.00		
-24.050VC   Rp 4.845,000.00		
-48.200VC   Rp 9.685,000.00		
+˖ 🌻 ˙ 86💎 Rp20.000
+˖ 🌻 ˙ 172💎 Rp40.000
+˖ 🌻 ˙ 257💎 Rp60.000
+˖ 🌻 ˙ 344💎 Rp80.000
+˖ 🌻 ˙ 429💎 Rp100.000
+˖ 🌻 ˙ 514💎 Rp118.000
+˖ 🌻 ˙ 600💎 Rp138.000
+˖ 🌻 ˙ 764💎 Rp160.000
+˖ 🌻 ˙ 878💎 Rp195.000
+˖ 🌻 ˙ 963💎 Rp215.000
+˖ 🌻 ˙ 1049💎 Rp235.000
+˖ 🌻 ˙ 1412💎 Rp315.000
+˖ 🌻 ˙ 2195💎 Rp460.000
+˖ 🌻 ˙ 3072💎 Rp650.000
+˖ 🌻 ˙ 3688💎 Rp770.000
+˖ 🌻 ˙ 5532💎 Rp1.140.000
+˖ 🌻 ˙ 6238💎 Rp1.310.000
+˖ 🌻 ˙ 9288💎 Rp1.910.000
+🌺  Starlight Plus : Rp280.000
+🌺  Twilight Pass : Rp125.000
+🌺  Starlight Member : Rp125.000		
 
 Untuk pay / pembayan silahkan ketik ${prefix}pay
 `
 	}
 
-exports.list_aov = list_aov
+exports.list_ML = list_ML
  
