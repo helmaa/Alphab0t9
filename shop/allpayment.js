@@ -1,27 +1,22 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
-
-*さ BANK*
-1. BRI 
-	ㅁ 5074-01-003141-52-8
-		• R***A*DI
+return `PAYMENT BY HELIA STORE
 		
 *さ E-MONEY*
 1. GOPAY
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ 0896 1693 2506
+		• H******
 2. OVO
-	ㅁ 0887 4350 47326
-		• EL*****TI
+	ㅁ 0896 1693 2506
+		• D*** P******
 3. DANA
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ 0896 1693 2506
+		• H**** A****
 
 *さ PULSA*
-1. SMARTFREN
-	ㅁ 0887 4350 47326
-2. TELKOMSEL
-	ㅁ 0821 9311 5723
+1. TRI 1
+	ㅁ 0896 9854 4080
+2. TRI 2
+	ㅁ 0896 1693 2506
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
