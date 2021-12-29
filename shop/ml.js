@@ -1,12 +1,6 @@
-const list_ml = (prefix) => {
-return `*HELIA STORE*
-			
-PROSES	1-60Mnt Max 1X24 Jam		
-OPEN	08.00-22.00		
-FORMAT	ID		
-			
-DIAMOND MOBILE LEGENDS
-		
+*LIST DIAMOND ML VIA ID & SERVER*
+*Proses 1 - 15 Menit Max 24 jam*
+
 ˖ 🌻 ˙ 86💎 Rp20.000
 ˖ 🌻 ˙ 172💎 Rp40.000
 ˖ 🌻 ˙ 257💎 Rp60.000
@@ -27,7 +21,11 @@ DIAMOND MOBILE LEGENDS
 ˖ 🌻 ˙ 9288💎 Rp1.910.000
 🌺  Starlight Plus : Rp280.000
 🌺  Twilight Pass : Rp125.000
-🌺  Starlight Member : Rp125.000		
+🌺  Starlight Member : Rp125.000
+
+*FORMAT ORDERAN:*
+NICK:
+ID (SERVER) :	
 
 Untuk pay / pembayan silahkan ketik ${prefix}pay
 `
